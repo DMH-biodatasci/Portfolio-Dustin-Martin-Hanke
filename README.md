@@ -6,7 +6,7 @@ Welcome to my portfolio summarizing my scientific and data-science projects and 
 ## 📑 Table of Contents
 1. [Tech Stack](#-tech-stack)
 2. [Machine Learning Projects](#-featured-projects)
-3. [Bioinformatics Projects](#-featured-projects)
+3. [Bioinformatics Projects](#-bioinformatics-projects)
 4. [Scientific Publications](#-scientific-publications)
 5. [Certificates](#-certificates)
 
