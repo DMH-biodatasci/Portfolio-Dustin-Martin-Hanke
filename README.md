@@ -1,13 +1,14 @@
-# Data Science Projects by Dustin Martin Hanke
-Welcome to my collection of data science projects, representing my work outside of my scientific career. This repository highlights my expertise in **data analysis**, **machine learning**, and **data visualization**.
+# Dustin Martin Hanke: Data Science, Bioinformatics, and Science Portfolio
+Welcome to my portfolio summarizing my scientific and data-science projects and skills. This repository highlights my expertise in **programming**, **data analysis**, **machine learning**, and **data visualization**.
 
 ---
 
 ## 📑 Table of Contents
-1. [Featured Projects](#-featured-projects)
-2. [Tech Stack](#-tech-stack)
-3. [Scientific Publications](#-scientific-publications)
-4. [Certificates](#-certificates)
+1. [Tech Stack](#-tech-stack)
+2. [Machine Learning Projects](#-featured-projects)
+3. [Bioinformatics Projects](#-featured-projects)
+4. [Scientific Publications](#-scientific-publications)
+5. [Certificates](#-certificates)
 
 ---
 
