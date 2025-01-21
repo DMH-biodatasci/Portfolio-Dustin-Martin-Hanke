@@ -5,9 +5,9 @@ Welcome to my portfolio summarizing my scientific and Data Science related proje
 
 ## 📑 Table of Contents
 1. [Machine Learning projects](#-Machine-Learning-projects)
-2. [Tech Stack](#-Tech-Stack)
-3. [Scientific publications](#-Scientific-publications)
-4. [Scientific conferences](#-Scientific-conferences)
+2. [Scientific publications](#-Scientific-publications)
+3. [Scientific conferences](#-Scientific-conferences)
+4. [Tech Stack](#-Tech-Stack)
 5. [Certificates](#-Certificates)
 
 ---
@@ -38,27 +38,6 @@ Welcome to my portfolio summarizing my scientific and Data Science related proje
 
 ---
 
-## 🛠️ Tech Stack Highlights
-### **Programming Languages:**
-- **Python**, **R**, **Bash**, **C++**
-
-### **Machine Learning Frameworks:**
-- **TensorFlow**, **Keras**, **PyTorch**, **Hugging Face Transformers**
-
-### **Data Analysis:**
-- **Pandas**, **NumPy**, **Scikit-learn**, **dplyr**, **tidyverse**, etc.
-
-### **Data Visualization:**
-- **Matplotlib**, **Seaborn**, **Plotly**, **TensorBoard**, **ggplot**, etc.
-
-### **High-Performance Computing:**
-- **Cloud computing**, **Linux HPC Systems**, **Snakemake**, **SLURM**
-
-### **Bioinformatics Tools:**
-- **Biopython**, **BLAST**, **MMSeqs**, **Genome Assembly Tools (Prokka, SPAdes)**, **IQTREE**, etc.
-
----
-
 ## 📰 Scientific Publications
 - **Hanke DM, Dagan T.** – In Preparation.
   SegMantX, a novel tool for detection of DNA duplications, uncovers a major role of transposable elements in plasmid gene duplication
@@ -84,6 +63,27 @@ Welcome to my portfolio summarizing my scientific and Data Science related proje
 
 - **Talks**
   - EvolSea24, SMBE24
+
+---
+
+## 🛠️ Tech Stack Highlights
+### **Programming Languages:**
+- **Python**, **R**, **Bash**, **C++**
+
+### **Machine Learning Frameworks:**
+- **TensorFlow**, **Keras**, **PyTorch**, **Hugging Face Transformers**
+
+### **Data Analysis:**
+- **Pandas**, **NumPy**, **Scikit-learn**, **dplyr**, **tidyverse**, etc.
+
+### **Data Visualization:**
+- **Matplotlib**, **Seaborn**, **Plotly**, **TensorBoard**, **ggplot**, etc.
+
+### **High-Performance Computing:**
+- **Cloud computing**, **Linux HPC Systems**, **Snakemake**, **SLURM**
+
+### **Bioinformatics Tools:**
+- **Biopython**, **BLAST**, **MMSeqs**, **Genome Assembly Tools (Prokka, SPAdes)**, **IQTREE**, etc.
 
 ---
 
