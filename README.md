@@ -1,5 +1,5 @@
-# Dustin Martin Hanke: Data Science, Bioinformatics, and Science Portfolio
-Welcome to my portfolio summarizing my scientific and data-science projects and skills. This repository highlights my expertise in **programming**, **data analysis**, **machine learning**, and **data visualization**.
+# Data Science, Bioinformatics, and Science
+Welcome to my portfolio summarizing my scientific and Data Science related projects and skills. This repository highlights my expertise in **programming**, **data analysis**, **machine learning**, and **data visualization**.
 
 ---
 
