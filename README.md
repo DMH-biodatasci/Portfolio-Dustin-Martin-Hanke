@@ -6,10 +6,9 @@ Welcome to my portfolio summarizing my scientific and Data Science related proje
 ## 📑 Table of Contents
 1. [Tech Stack](#-Tech-Stack)
 2. [Machine Learning projects](#-Machine-Learning-projects)
-3. [Bioinformatics projects](#-Bioinformatics-projects)
-4. [Scientific publications](#-Scientific-publications)
-5. [Scientific conferences](#-Scientific-conferences)
-6. [Certificates](#-Certificates)
+3. [Scientific publications](#-Scientific-publications)
+4. [Scientific conferences](#-Scientific-conferences)
+5. [Certificates](#-Certificates)
 
 ---
 
@@ -39,24 +38,33 @@ Welcome to my portfolio summarizing my scientific and Data Science related proje
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Highlights
 ### **Programming Languages:**
-- **Python**, **R**, **Bash**
+- **Python**, **R**, **Bash**, **C++**
 
 ### **Machine Learning Frameworks:**
 - **TensorFlow**, **Keras**, **PyTorch**, **Hugging Face Transformers**
 
 ### **Data Analysis:**
-- **Pandas**, **NumPy**, **Scikit-learn**
+- **Pandas**, **NumPy**, **Scikit-learn**, **dplyr**, **tidyverse**, etc.
 
 ### **Data Visualization:**
-- **Matplotlib**, **Seaborn**, **Plotly**, **TensorBoard**
+- **Matplotlib**, **Seaborn**, **Plotly**, **TensorBoard**, **ggplot**, etc.
 
 ### **High-Performance Computing:**
-- **Google Colab**, **NEC HPC System (University of Kiel)**, **NVIDIA Tesla GPUs**
+- **Cloud computing**, **Linux HPC Systems**, **Snakemake**, **SLURM**
 
 ### **Bioinformatics Tools:**
-- **Biopython**, **BLAST**, **MMSeqs**, **Genome Assembly Tools (Prokka, SPAdes)**
+- **Biopython**, **BLAST**, **MMSeqs**, **Genome Assembly Tools (Prokka, SPAdes)**, **IQTREE**, etc.
+
+---
+
+## 📰 Scientific Conferences
+- **Posters**
+  - EvolSea22, ISPB22, EvolSea23, SMBE23
+
+- **Talks**
+  - EvolSea24, SMBE24
 
 ---
 
