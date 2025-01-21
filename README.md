@@ -63,37 +63,46 @@ Welcome to my portfolio summarizing my scientific and Data Science related proje
 ## 📰 Scientific Publications
 - **Hanke DM, Dagan T.** – In Preparation.
   SegMantX, a novel tool for detection of DNA duplications, uncovers a major role of transposable elements in plasmid gene duplication
-- **Hanke DM, Wang Y, Dagan T.(https://academic.oup.com/nar/article/52/12/7049/7684600#)** – Nucleic Acids Research (2024)  
+- **Hanke DM, Wang Y, Dagan T.** – Nucleic Acids Research (2024)  
   Large-scale bioinformatics analysis that uncovers a higher pseudogene density in plasmid compared to chromosomes and its biological implications (e.g., plasmid domestication).
-- **Nies F, Wein T, Hanke DM, Springstein BL, Alcorta J, Taubenheim C, Dagan T.(https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.13203)** – Environmental Microbiology (2023)  
+  [Click here](https://academic.oup.com/nar/article/52/12/7049/7684600#)
+- **Hanke DM, Dagan T.** – BIOSpektrum (2024)
+  2-Methylhopan als Marker für Cyanobakterien in der Erdgeschichte. BIOspektrum.
+  [Click here](https://link.springer.com/epdf/10.1007/s12268-024-2096-y?sharing_token=bwZPJVNilvu3xwLIOibiTPe4RwlQNchNByi7wbcMAY5FxHFAMFZoz5Vh7z5w4VAKlV-ZwYQ72duVYou1g50V0XxAd3Q0bALDzYLogypABXGoFTTkU0YJd0Ki6IEKaf9drquN9LusytlNcrjXrz8Dalk-aWQf5W-f2TOJDp96BTI%3D) 
+- **Nies F, Wein T, Hanke DM, Springstein BL, Alcorta J, Taubenheim C, Dagan T.** – Environmental Microbiology (2023)
+  Role of natural transformation in the evolution of small cryptic plasmids in Synechocystis sp. PCC 6803
+  [Click here](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.13203)
+- **Nies F, Springstein BL, Hanke DM, Dagan T.** – mSphere (2022)
+  Natural Competence in the Filamentous, Heterocystous Cyanobacterium Chlorogloeopsis fritschii PCC 6912
+  [Click here](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.13203)  
   
 
 ---
 
 ## 🎓 Certificates
-- **University Didactics**
+- University Didactics
   
-- **Machine Learning Degree by opencampus (2023)**
+- Machine Learning Degree by opencampus (2023)
 
-- **Machine Learning with TensorFlow by opencampus (2021/2022)**
+- Machine Learning with TensorFlow by opencampus (2021/2022)
 
-- **Transformers for Natural Language Processing and Beyond by opencampus (2022)**
+- Transformers for Natural Language Processing and Beyond by opencampus (2022)
 
-- **ML project manager @ Coding.Waterkant Hackathon (2022)**
+- ML project manager @ Coding.Waterkant Hackathon (2022)
 
-- **Deep Learning by opencampus (2022/2023)**
+- Deep Learning by opencampus (2022/2023)
 
-- **Coursera: Neural Networks & Deep Learning**
+- Coursera: Neural Networks & Deep Learning
 
-- **Coursera: Deeplearning.AI TensorFlow Developer**
-  - **Introduction to TensorFlow for Artifical Intelligence, Machine Learning, and Deep Learning**
-  - **Convolutional Neural Networks in TensorFlow**
-  - **Natural Language Processing in TensorFlow**
-  - **Sequences, Time Series and Prediction**
+- Coursera: Deeplearning.AI TensorFlow Developer
+  - Introduction to TensorFlow for Artifical Intelligence, Machine Learning, and Deep Learning
+  - Convolutional Neural Networks in TensorFlow
+  - Natural Language Processing in TensorFlow
+  - Sequences, Time Series and Prediction
 
-- **Projectmanagement by opencampus**
+- Projectmanagement by opencampus
 
-- **Webdevelopement by opencampus (HTML, CSS, Javascript & Bootstrap)**  
+- Webdevelopement by opencampus (HTML, CSS, Javascript & Bootstrap)
 
 
 ---
