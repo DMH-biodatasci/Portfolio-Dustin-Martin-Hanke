@@ -70,16 +70,34 @@ Welcome to my portfolio summarizing my scientific and Data Science related proje
 ---
 
 ## 🎓 Certificates
-- **[Data Science Professional Certificate](#)** – Coursera (Year)  
-  Description of the certificate and skills gained.
-- **[Machine Learning Certificate](#)** – edX (Year)  
-  Description of the certificate and practical applications learned.
+- **University Didactics**
   
-(Note: Replace the placeholders with your actual certificates and links)
+- **Machine Learning Degree by opencampus (2023)**
+
+- **Machine Learning with TensorFlow by opencampus (2021/2022)**
+
+- **Transformers for Natural Language Processing and Beyond by opencampus (2022)**
+
+- **ML project manager @ Coding.Waterkant Hackathon (2022)**
+
+- **Deep Learning by opencampus (2022/2023)**
+
+- **Coursera: Neural Networks & Deep Learning**
+
+- **Coursera: Deeplearning.AI TensorFlow Developer**
+  - **Introduction to TensorFlow for Artifical Intelligence, Machine Learning, and Deep Learning**
+  - **Convolutional Neural Networks in TensorFlow**
+  - **Natural Language Processing in TensorFlow**
+  - **Sequences, Time Series and Prediction**
+
+- **Projectmanagement by opencampus**
+
+- **Webdevelopement by opencampus (HTML, CSS, Javascript & Bootstrap)**  
+
 
 ---
 
 ## 🌐 Explore More
-Check out my full portfolio on my [GitHub Pages website](https://yourusername.github.io/).
+Check out my full portfolio on my [GitHub Pages website](https://dmh-biodatasci.github.io/Portfolio-Dustin-Martin-Hanke/).
 
-Feel free to reach out if you'd like to learn more about these projects. 😊
+Feel free to reach out if you'd like to learn more about me or my projects. 😊
