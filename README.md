@@ -4,8 +4,8 @@ Welcome to my portfolio summarizing my scientific and Data Science related proje
 ---
 
 ## 📑 Table of Contents
-1. [Tech Stack](#-Tech-Stack)
-2. [Machine Learning projects](#-Machine-Learning-projects)
+1. [Machine Learning projects](#-Machine-Learning-projects)
+2. [Tech Stack](#-Tech-Stack)
 3. [Scientific publications](#-Scientific-publications)
 4. [Scientific conferences](#-Scientific-conferences)
 5. [Certificates](#-Certificates)
@@ -59,15 +59,6 @@ Welcome to my portfolio summarizing my scientific and Data Science related proje
 
 ---
 
-## 📰 Scientific Conferences
-- **Posters**
-  - EvolSea22, ISPB22, EvolSea23, SMBE23
-
-- **Talks**
-  - EvolSea24, SMBE24
-
----
-
 ## 📰 Scientific Publications
 - **Hanke DM, Dagan T.** – In Preparation.
   SegMantX, a novel tool for detection of DNA duplications, uncovers a major role of transposable elements in plasmid gene duplication
@@ -84,6 +75,15 @@ Welcome to my portfolio summarizing my scientific and Data Science related proje
   Natural Competence in the Filamentous, Heterocystous Cyanobacterium Chlorogloeopsis fritschii PCC 6912
   [Click here](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.13203)  
   
+
+---
+
+## 📰 Scientific Conferences
+- **Posters**
+  - EvolSea22, ISPB22, EvolSea23, SMBE23
+
+- **Talks**
+  - EvolSea24, SMBE24
 
 ---
 
