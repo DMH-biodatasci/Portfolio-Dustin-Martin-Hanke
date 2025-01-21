@@ -4,15 +4,16 @@ Welcome to my portfolio summarizing my scientific and Data Science related proje
 ---
 
 ## 📑 Table of Contents
-1. [Tech Stack](#-tech-stack)
-2. [Machine Learning Projects](#-featured-projects)
-3. [Bioinformatics Projects](#-bioinformatics-projects)
-4. [Scientific Publications](#-scientific-publications)
-5. [Certificates](#-certificates)
+1. [Tech Stack](#-Tech-Stack)
+2. [Machine Learning projects](#-Machine-Learning-projects)
+3. [Bioinformatics projects](#-Bioinformatics-projects)
+4. [Scientific publications](#-Scientific-publications)
+5. [Scientific conferences](#-Scientific-conferences)
+6. [Certificates](#-Certificates)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Machine Learning Projects
 
 ### 1. [Transformers towards detection of transposons](https://github.com/DMH-biodatasci/Transformers-towards-detection-of-Transposons)
 **Objective:** Predict composite transposable elements in bacterial genomes.  
@@ -60,12 +61,12 @@ Welcome to my portfolio summarizing my scientific and Data Science related proje
 ---
 
 ## 📰 Scientific Publications
-- **[Publication 1 Title](#)** – _Journal Name_ (Year)  
-  Description of the first publication. Highlight key findings or contributions.
-- **[Publication 2 Title](#)** – _Journal Name_ (Year)  
-  Description of the second publication. Focus on the relevance to data science and bioinformatics.
+- **Hanke DM, Dagan T.** – In Preparation.
+  SegMantX, a novel tool for detection of DNA duplications, uncovers a major role of transposable elements in plasmid gene duplication
+- **Hanke DM, Wang Y, Dagan T.(https://academic.oup.com/nar/article/52/12/7049/7684600#)** – Nucleic Acids Research (2024)  
+  Large-scale bioinformatics analysis that uncovers a higher pseudogene density in plasmid compared to chromosomes and its biological implications (e.g., plasmid domestication).
+- **Nies F, Wein T, Hanke DM, Springstein BL, Alcorta J, Taubenheim C, Dagan T.(https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.13203)** – Environmental Microbiology (2023)  
   
-(Note: Replace the placeholders with your actual publications and links)
 
 ---
 
