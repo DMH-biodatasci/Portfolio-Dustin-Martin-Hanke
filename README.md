@@ -1,4 +1,4 @@
-# Data Science, Bioinformatics, and Science
+# Data Science & Bioinformatics
 Welcome to my portfolio summarizing my scientific and Data Science related projects and skills. This repository highlights my expertise in **programming**, **data analysis**, **machine learning**, and **data visualization**.
 
 ---
