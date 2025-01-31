@@ -1,6 +1,9 @@
 # Data Science & Bioinformatics
 Welcome to my portfolio summarizing my scientific and Data Science related projects and skills. This repository highlights my expertise in **programming**, **data analysis**, **machine learning**, and **data visualization**.
 
+## Note:
+Please note that if my scientific papers and data science projects have not already been published, in most cases they are not accessible.
+
 ---
 
 ## 📑 Table of Contents
