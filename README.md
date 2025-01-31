@@ -73,8 +73,8 @@ Welcome to my portfolio summarizing my scientific and Data Science related proje
 ### **Machine Learning Frameworks:**
 - **TensorFlow**, **Keras**, **PyTorch**, **Hugging Face Transformers**
 
-### **Data Analysis:**
-- **Pandas**, **NumPy**, **Scikit-learn**, **dplyr**, **tidyverse**, etc.
+### **Data Analysis & Management:**
+- **MySQL (SQL)**, **Pandas** **NumPy**, **Scikit-learn**, **dplyr**, **tidyverse**, etc.
 
 ### **Data Visualization:**
 - **Matplotlib**, **Seaborn**, **Plotly**, **TensorBoard**, **ggplot**, etc.
