@@ -3,6 +3,7 @@ Welcome to my portfolio summarizing my scientific and Data Science related proje
 
 ## Note:
 Please note that if my scientific papers and data science projects have not already been published, in most cases they are not accessible.
+**Consequently, you will only find a selection of projects here!**
 
 ---
 
